@@ -1,4 +1,3 @@
-//your code here
 // Select the button
 var btn = document.getElementById('btn');
 
